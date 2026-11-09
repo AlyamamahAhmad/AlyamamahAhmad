@@ -1,23 +1,6 @@
 <!-- ✦ ALYAMAMAH AHMAD | DEVELOPER PROFILE ✦ -->
-
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=C6A7F2&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Alyamamah+Ahmad+%F0%9F%91%8B;Software+Engineering+Graduate;Full-Stack+Developer;UI%2FUX+Designer;Where+ideas+meet+code+%E2%9C%A8" alt="Typing SVG" />
-
-<br/>
-
-<h3>Software Engineer | Full-Stack Developer | UI/UX Designer</h3>
-
-<p>
-Building digital experiences through code and creativity.
-</p>
-
-<a href="https://github.com/AlyamamahAhmad">
-<img src="https://img.shields.io/badge/GitHub-Profile-7041A6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
+  <img src="assets/alyamamah-hero.svg" width="100%" alt="Alyamamah Ahmad - Developer Portfolio"/>
 </div>
 
 ---
